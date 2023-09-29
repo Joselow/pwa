@@ -1,0 +1,16 @@
+{
+  "name": "La app pwa",
+  "short_name": "PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FC4A4A",
+  "lang": "en",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "./favicon.ico",
+      "sizes": "192x192",
+      "type": "image/ico"
+    }
+  ]
+}
